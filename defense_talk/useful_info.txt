@@ -1,0 +1,3 @@
+Convert screenshot saved movie to gif
+avconv -i candidateGrasps_sample.ogv   -vf format=rgb24 -pix_fmt rgb24 -r 15 output.gif
+
