@@ -1,0 +1,1 @@
+ avconv -i tasks_overview_Pouring_cup_mustard_5.mp4 -vb 500k -an -vf crop=500:400:80:60 -r 60 output2.ogg
