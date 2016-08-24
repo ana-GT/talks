@@ -1,0 +1,22 @@
+1. Greeting 42 seconds
+2. Motivation - Manipulation task
+3. Why is it hard?  - Multiple candidate grasps
+4. How to choose? 
+5. Cutkosky graph
+6. Why this is not a good idea, grasp-centric metric.
+7. Examples of when a grasp is preferable over others
+(not only for looks but for actuation errors)
+5. Problem with existing grasp metrics: Hand-centric
+6. Manipulation is not only about grasp, but about how the arm get there
+7. We propose: Combine arm and grasp measures to prioritize grasps.
+8. Our approach
+9. Results
+10. Sneak peek - Pick and place / Pouring
+11. Quick apology for not being there again
+12. Give my email for questions.
+
+Good afternoon everybody and thank you very much for being here today. My name is Ana Huaman and I want to start by apologizing for not being physically present today. I would also like to thank the session chairs for helping me in delivering this presentation using this recording. Okay, let's start with the talk. The title of this paper is "Combining arm and hand metrics for sensible grasp selection". This work has been done at Georgia Tech in collaboration with Prof. Heni Ben Amor
+from Arizona State University and Prof. Henrik Christensen now at UC San Diego. 
+
+Let's start with the motivation of this work, which is Manipulation tasks. I think they are very important because they are the main way in which humans interact with their environment to suit their particular needs
+
